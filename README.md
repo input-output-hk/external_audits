@@ -1,2 +1,4 @@
-# external_audits
-Public repo for all 3rd Party audits
+<img src="https://github.com/input-output-hk/external_audits/blob/master/images/IOHK-CascadingDisruption.jpeg"/><br>
+IOHK’s development methodology is founded on the most exacting standards of assurance and security. <br><br>
+Independent code audits give users even higher assurance in the quality of any blockchain platform. Verification from a third-party brings objectivity and impartial expertise, helping ensure that IOHK’s engineers have got things right. Wholly independent auditing from respected auditors offers a powerful validation, adding further substance to any claims of reliability and robustness that the original developer may make.<br><br>
+In line with our philosophy of transparency, here we are publicly sharing the audit reports and findings. Going forward, you'll find any ongoing reports hosted within this repo. As well as demonstrating our own confidence in our code, we hope that it may help the wider blockchain community in identifying potential vulnerabilities that may well be common to other platforms.
